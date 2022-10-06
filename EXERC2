@@ -1,0 +1,17 @@
+<HTML>
+
+ <HEAD>
+   <TITLE>EXERC 2</TITLE>
+ </HEAD>
+
+<Body>
+ <P ALIGN=center><FONT FACE="Verdana" SIZE="3" COLOR="#FF0000">Inserindo efeitos na minha página <I>web</I>.</FONT></P>
+ <P ALIGN=center> Nome: <B>Alvaro Silva</B><BR>
+     Nascimento: <B>01/04/2005<U><BR>
+     Endereço: Rua felicidade moreira cesar</P>
+  <HR>
+ <P ALIGN=center>Muito legal!</P>
+  <HR>
+</BODY>
+
+</HTML>
